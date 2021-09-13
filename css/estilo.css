@@ -1,0 +1,125 @@
+@charset "UTF-8";
+footer {
+  background-color: lightseagreen; }
+  footer a {
+    color: black; }
+
+.navbar-light .navbar-nav .nav-link {
+  color: white; }
+
+footer {
+  font-family: "Barlow", sans-serif;
+  font-size: 30px; }
+
+.navbar-light .navbar-nav .nav-link {
+  font-family: "Barlow", sans-serif;
+  font-size: 20px; }
+
+.navbar-light .navbar-brand {
+  font-family: "Barlow", sans-serif;
+  font-size: 30px; }
+
+.texto {
+  font-family: "Barlow", sans-serif;
+  font-size: 30px; }
+
+h1 {
+  font-size: 40px; }
+
+.contenidoProductos {
+  font-family: "Barlow", sans-serif; }
+
+.divMensaje {
+  font-family: "Barlow", sans-serif;
+  font-size: 20px; }
+
+li {
+  list-style-type: none;
+  display: inline; }
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  height: 100px; }
+  footer a {
+    margin-top: 30px;
+    margin-right: 80px;
+    margin-bottom: 0px;
+    margin-left: 80px;
+    position: relative;
+    top: 25px; }
+
+.row {
+  width: 100%;
+  margin: 0px; }
+
+.container-fluid {
+  padding: 0px;
+  margin: 0px; }
+
+.col-lg-12 {
+  padding: 0px; }
+
+.contenido {
+  margin-top: 10px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px; }
+
+.texto {
+  display: relative;
+  top: 60px;
+  left: 100px; }
+
+.centrarTexto {
+  text-align: center; }
+
+.contenidoProductos {
+  margin-top: 100px;
+  margin-right: 0px;
+  margin-bottom: 100px;
+  margin-left: 0px; }
+  .contenidoProductos h1 {
+    position: relative;
+    bottom: 50px; }
+
+.diseñoFormulario {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  .diseñoFormulario input {
+    margin: 10px; }
+
+.formularioContacto {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  .formularioContacto input {
+    width: 100%;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px; }
+  .formularioContacto textarea {
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px; }
+  .formularioContacto button {
+    width: 100%;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px; }
+
+.divMensaje {
+  display: block;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-bottom: 10px;
+  margin-left: auto; }
